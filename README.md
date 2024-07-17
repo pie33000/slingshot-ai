@@ -46,33 +46,22 @@ Rules:
 ```
 **⚠️The prompt is supposed to increase the perplexity of the model.**
 
-| Model                           | Eval Dataset                | Prompt | PPL   |
-|---------------------------------|-----------------------------|--------|-------|
-| google/gemma-2b-it              | CAREER_DISSATISFACTION      | A      | 33.88 |
-| google/gemma-2b-it              | CAREER_DISSATISFACTION      | B      | 57.89 |
-| Qwen/Qwen2-1.5B-Instruct        | CAREER_DISSATISFACTION      | A      | 12.04 |
-| Qwen/Qwen2-1.5B-Instruct        | CAREER_DISSATISFACTION      | B      | 12.58 |
-| google/gemma-2b-it              | STUDY_ABROAD_DECISION       | A      | 40.58 |
-| google/gemma-2b-it              | STUDY_ABROAD_DECISION       | B      | 48.03 |
-| Qwen/Qwen2-1.5B-Instruct        | STUDY_ABROAD_DECISION       | A      | 13.48 |
-| Qwen/Qwen2-1.5B-Instruct        | STUDY_ABROAD_DECISION       | B      | 13.37 |
-| google/gemma-2b-it              | EMBRACING_A_HEALTHY_LIFESTYLE | A    | 27.48 |
-| google/gemma-2b-it              | EMBRACING_A_HEALTHY_LIFESTYLE | B    | 37.43 |
-| Qwen/Qwen2-1.5B-Instruct        | EMBRACING_A_HEALTHY_LIFESTYLE | A    | 10.87 |
-| Qwen/Qwen2-1.5B-Instruct        | EMBRACING_A_HEALTHY_LIFESTYLE | B    | 11.15 |
-| google/gemma-2b-it              | PARENTAL_OVERPROTECTEDNESS  | A      | 51.88 |
-| google/gemma-2b-it              | PARENTAL_OVERPROTECTEDNESS  | B      | 70.62 |
-| Qwen/Qwen2-1.5B-Instruct        | PARENTAL_OVERPROTECTEDNESS  | A      | 18.79 |
-| Qwen/Qwen2-1.5B-Instruct        | PARENTAL_OVERPROTECTEDNESS  | B      | 19.99 |
-| google/gemma-2b-it              | HANDLING_SETBACKS           | A      | 20.18 |
-| google/gemma-2b-it              | HANDLING_SETBACKS           | B      | 22.82 |
-| Qwen/Qwen2-1.5B-Instruct        | HANDLING_SETBACKS           | A      | 8.20  |
-| Qwen/Qwen2-1.5B-Instruct        | HANDLING_SETBACKS           | B      | 8.30  |
+| Model                  | Prompt | CAREER_DISSATISFACTION (PPL) | STUDY_ABROAD_DECISION (PPL) | EMBRACING_A_HEALTHY_LIFESTYLE (PPL) | PARENTAL_OVERPROTECTEDNESS (PPL) | HANDLING_SETBACKS (PPL) |
+|------------------------|--------|-------------------------------|-----------------------------|--------------------------------------|----------------------------------|-------------------------|
+| google/gemma-2b-it      | A      | 33.88                         | 40.58                       | 27.48                                | 51.88                            | 20.18                   |
+| google/gemma-2b-it      | B      | 57.89                         | 48.03                       | 37.43                                | 70.62                            | 22.82                   |
+| Qwen/Qwen2-1.5B-Instruct| A      | 12.04                         | 13.48                       | 10.87                                | 18.79                            | 8.20                    |
+| Qwen/Qwen2-1.5B-Instruct| B      | 12.58                         | 13.37                       | 11.15                                | 19.99                            | 8.30                    |
+
+
 
 
 |            Model             |       Eval Dataset       | Prompt | HelloSwag |
 |:-----------------------------|:-------------------------|:------:|----------:|
 | Qwen/Qwen2-1.5B-Instruct     | CAREER_DISSATISFACTION   |   A    |      0.27 |
+
+
+
 
 
 ## How to run the code
