@@ -1,0 +1,43 @@
+assistant: Hi Zoe, I'm Ash, nice to meet you. What brings you here today?
+user: I'm just like freaking out because I've always been naturally skinny like, not to brag or anything, but like that's just how my body is. So I've never really had to exercise or watch what I eat at all but now I weighed myself the other day and I gained seven pounds in six weeks and that's just not normal. I don't want to continue like that so I need to do something about it but I just don't even know where to start
+assistant: It sounds like you're pretty surprised and a bit worried about this recent weight gain. Just to clarify, is talking about your weight something you're comfortable with?
+user: Yeah, I mean, I guess so. I've never really had to but I feel like I have to start thinking about it now
+assistant: I appreciate you being open to talking about it. I do want to say, it's normal for bodies to change and it's totally okay to have a reaction to it. Is it okay if I ask a few questions to better understand what's going on?
+user: Yeah, sure.
+assistant: Great, so you mentioned that you've been naturally skinny and haven't had to exercise or watch what you eat. Has there been any change in your lifestyle recently?
+user: This is my first semester of college and everyone always talks about the freshman 15 when like you gain a lot of weight when you go to college, but I just didn't think that would happen to me!
+assistant: The first semester of college can be a big transition, and it's normal to experience some changes. How are you feeling about this happening?
+user: It literally makes me want to cry. Like, I've always been the skinny one.
+assistant: I can hear that this is really upsetting for you. Has this inspired you to change your habits at all?
+user: Yeah. I mean, I know that I need to. I'm just not sure what to do, I guess. I've never really been to the gym before or cooked before. And I just feel like working out a few times or eating a bit healthier is not going to make a difference, but I can't just suddenly change everything so dramatically.
+assistant: That makes a lot of sense. It can be overwhelming to think about making big changes. Maybe we can brainstorm some small steps you could take that feel manageable?
+user: Okay. Yeah.
+assistant: You mentioned earlier that you've never really been to the gym and haven't cooked much. Maybe a good place to start would be to pick one of those things to focus on first?
+user: I guess I've just never really felt comfortable with the idea of going to the gym. Like, I'm not really sure what I would do there and I'm not a sporty person at all.
+assistant: I can understand that. The gym can be an intimidating place, especially if you're not used to it. Do you have any friends who go to the gym regularly?
+user: Yeah. I mean, I have a couple friends who go.
+assistant: Given that you have friends that know how to exercise, what do you think a good place to start could be?
+user: I guess I could ask one of my friends to go with me because I know that I would feel more comfortable and also I would have someone there who could help me, like, use the machines and stuff because I don't know how to do that.
+assistant: That sounds like a great idea. You can lean on your friends for support and guidance. I know you said you're not a sporty person, but are there any types of physical activity that you actually enjoy?
+user: I mean, I like going on walks. I know that's not really, like, exercise, but I do like going on walks and just listening to music.
+assistant: Actually, walking can be a great form of exercise. It's a good way to ease into a more active lifestyle and it's something you can do on your own. Have you been able to go on walks since you started college?
+user: I mean, I live on campus, so I'm walking to class, like, all the time. But I haven't really gone on a walk for fun or just for exercise, I guess.
+assistant: Maybe going for walks could be a more natural entry point for you to start being more active. What do you think?
+user: Like, it's definitely doable, I just don't think it would help anything. Maybe if I start running?
+assistant: Is running a realistic thing for you to set as a goal?
+user: I think so.
+assistant: I think it's great that you're open to the idea of running! Is there a small goal you could set for yourself this week?
+user: I guess if I would go running, like, every day and then maybe, like, I don't know. I don't really know what a realistic goal would be because I've never run distances before. But, like, I don't know. A mile a day?
+assistant: A mile a day sounds like a great goal. Is that something you think you could do?
+user: I don't know, it seems like it might be a bit much.
+assistant: We could scale it back a bit, and increase the amount as you get more comfortable. What would be a more realistic goal to start?
+user: Maybe just like half a mile a day?
+assistant: That sounds more doable. Half a mile a day is a great place to start. And remember, even if you don't hit that goal every day, it's totally fine. The important thing is that you're making an effort to be more active. Is there a certain time of day you'd want to plan on doing this?
+user: I guess I can do it after I get home from my last class.
+assistant: Great, how are you feeling about this plan overall?
+user: It feels manageable, but I'm just scared that I won't be able to do it or that I'll just give up. Or that it won't be enough to make me skinny again.
+assistant: It's normal to feel a bit scared when you're trying something new. But I think it's important to focus on the process and not just the end result. Do you feel like you're in a good place to start?
+user: Yeah, I think so. I know I have to start somewhere.
+assistant: You're showing a great willingness to work towards your goal! Would you like to talk about your diet at all?
+user: Maybe another time. Thanks!
+assistant: No problem, feel free to reach out whenever you'd like to talk. Good luck with your running!

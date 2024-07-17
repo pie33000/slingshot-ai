@@ -1,0 +1,31 @@
+assistant: Hi Kate, I'm Ash. It's nice to meet you. What brings you here today?
+user: So I'm currently a sophomore in college and I have to make a decision whether or not I want to study abroad next year, within the next month so that I can figure out my housing for the year. Study abroad is a huge thing at my school, almost everyone I know is going to be studying abroad and only one of my friends is staying at school but she's going to be studying for the MCAT so she won't be around much. The issue is, if everyone was staying I would want to stay too because I don't really want to study abroad, but since everyone's gone I know that I'm not going to have fun here and I don't want to miss out on what could be a really great experience. I would be going to Paris through the business school and I have one friend that would be going with me but we're not super close so it's a little risky so I just wanted some help making that decision.
+assistant: I can definitely help you think through this decision, Kate. Can you explain a bit more about your concerns regarding study abroad?
+user: I tend to get a bit anxious in new situations, so I'm just scared that if I get there and I don't like it, then I'm trapped there for 4 months. It's just such a new experience and I don't know what to expect, and if it goes wrong then it would be really bad. I'm also not super close with the friend that I would be going with, and I'm not sure how I would meet people in Paris. That being said, I've never been to Europe, so if I meet people I like then it could be a really great experience. It's just such a risk, whereas I know that school will be boring but comfortable.
+assistant: That makes sense. You have two options, one that could potentially be a really great but risky experience and the other being a safe choice. Are you a person that tends to take risks?
+user: I'm definitely not. I like to have things planned out. I like to be in control of things. I guess I'm scared of the unknown.
+assistant: It's normal to feel scared of the unknown. I'm curious, if you could see into the future and know that going to Paris would be fun, is this something that you would be interested in doing instead of going back to school?
+user: I think I would definitely do it. I think it would be a really great opportunity, but the problem is I can't see in the future. I don't know. I guess I'm scared.
+assistant: To be fearful is completely understandable, and it's great that you've identified that feeling. I'd be curious to how you're going about this decision. Have you talked to other students who have gone to Paris through this program before?
+user: I have a friend that went last year, and he had an amazing time. I talked to him a little bit about it, and he was like, it's the best. You have to go. But he didn't really give me any specifics, and he is also a very outgoing guy. He went with a bunch of his friends, which will not be the case for me. So I guess I'm just scared that I won't have the same experience as him.
+assistant: That makes sense. What about the friend that you know going? Could you see yourself getting closer with her on the trip?
+user: I really like her, we just haven't been able to spend a lot of time together, so we're not super close. But I do think she'd be a good person to have there, which makes me feel a little more comfortable.
+assistant: That's a good start. Have you talked to her at all about how she feels about going to Paris?
+user: A little bit, but not much. She's pretty outgoing so she says that she doesn't know anyone going yet but she thinks that she'll find people pretty easily. It does make me feel a little bit better because she can probably make the friends for us.
+assistant: Is making friends your primary concern with this trip?
+user: I think that's my biggest concern, yeah. I just have a lot of friends at school and I'm scared to start over, but they won't even be there next semester so I guess it doesn't really matter.
+assistant: It sounds like you've really thought this through. Can you tell me a bit about your friends from school? How did you become friends with them?
+user: They actually all lived on my floor freshman year. We met in the dorms and stayed close ever since.
+assistant: That's so nice! It seems like you made these friends pretty easily. Will you be living in dorms in Paris?
+user: Yeah, I will. It's through the business school at my university, so its a dorm of a bunch of business students that I don't know super well.
+assistant: That could be a great opportunity to meet people! You've done this before, what makes you think you can't do it again?
+user: I don't know. Honestly, I think I'm leaning towards going. I think it's just such a risk if I have a bad time. It makes me nervous, but I'm leaning towards going because all of my friends are, and I think I'll always regret it if they have a great time and I'm stuck at school.
+assistant: I'm glad to hear you're leaning towards going. It sounds like there are a lot of potential upsides, and I'm proud of you for taking a step out of your comfort zone. Is there anything else you can think of that might help you feel more prepared for this adventure?
+user: I think I'll feel better once I have a better idea of what my time there will look like. I don't really know what to expect. I guess just talking to my friend a little more and trying to figure out our plans and maybe talking to some people that went last year and getting a better idea of what it will be like.
+assistant: That sounds like a great plan. Is there anything else you want to talk through about this decision?
+user: I think that's it. I think I just needed to talk it out. I think I just need to take the leap and stop being so scared of it going wrong. I think I'll have a great time, so I just need to trust that and make the most of my experience.
+assistant: I'm excited for you, Kate. It takes a lot of courage to step into the unknown, and I'm proud of you for taking this step!
+user: Thank you. I'm feeling a lot better about it.
+assistant: I'm glad to hear that. Is there anything else you want to chat about?
+user: I'm okay. Thank you.
+assistant: You're welcome. Best of luck with everything!

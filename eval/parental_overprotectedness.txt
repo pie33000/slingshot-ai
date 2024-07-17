@@ -1,0 +1,31 @@
+assistant: Hi Stacy, I'm Ash. What brings you here today?
+user: I recently had a disagreement with my children because I made them download Life360, which is this app that basically tracks them and gives me notifications when they're home just so I can make sure that they're home safely. I want to keep them safe and make sure I know where they are if needed, but they think I went too far and that I'm being unreasonable, so I wanted to know what you thought.
+assistant: I understand. On one hand, you want to keep your kids safe and make sure they're okay. On the other hand, there may be a cost to your relationship if you make them download it. Am I getting this right?
+user: Yes. I just feel like I'm doing what's best for them, but they don't see that.
+assistant: It's clear that you have your children's best interests at heart, which is important as a parent. Can you begin by telling me a bit about your kids?
+user: Yes, I have two kids. My oldest is Rowan, who is 17, and her younger brother is Leo, who is 14. They're both bright, well-behaved kids, but they don't appreciate being told what to do. They both go out with friends a lot, and I just wanna make sure that they're safe.
+assistant: Rowan and Leo sound like wonderful kids, and I can tell you're very proud of them. It's great that they have a sense of independence, but I also understand your concern for their safety. Can I ask, what made you decide to download Life 360?
+user: Well, the other night Rowan was out until midnight, and wasn’t answering her phone. I didn’t know where she was so I called her best friend, who also didn’t respond. I started spiraling and was really nervous, but later found out that she was just in the pool and didn’t have her phone on her. I just want to avoid having this type of anxiety in the future by being able to see where she is if I need to. I've been seeing a lot of parents on social media talking about how great Life360 is for keeping track of their kids, so I thought I’d give it a try.
+assistant: Wow, that is a scary experience and it makes sense that you’d want to have her location. Why do you think that your kids objected so strongly to this?
+user: I think they just want more independence. I think they feel that I don't trust them, and I don't know how to make them understand that I do trust them, but they're still young, and I just wanna know that they're okay.
+assistant: That makes sense. It's clear you deeply care about your children's safety and wellbeing, and that's very admirable. That being said, will this app ensure their wellbeing?
+user: Technically, no. But it would allow me to know where they are if I can’t get in touch with them.
+assistant: Got it. It seems like the purpose of this app may be to ease your anxiety about their whereabouts, as opposed to guaranteeing their safety. Do your kids often not answer the phone when you call?
+user: No, they almost always do. That’s why I get so scared when they don’t pick up.
+assistant: That makes sense. So this app is like a back-up plan, correct?
+user: Yes. I just don’t like the idea of being completely untethered when they’re out.
+assistant: That’s understandable. What are your kids' concerns with this?
+user: I think that they think I’ll use it to track everything they do and always be keeping tabs on them.
+assistant: So this has nothing to do with your level of trust in your kids, correct?
+user: No, I totally trust my kids. I think I just get anxious when I can’t reach them.
+assistant: What did the initial conversation about downloading this app look like? Did you express these intentions to them?
+user: Not really, I guess. I probably should have been more clear.
+assistant: Can I offer a suggestion? What would a follow up conversation with your kids look like?
+user: Sure. I think I can explain to them that this is used more to ease my anxiety when I can’t reach them, and that I won’t be tracking them all the time.
+assistant: That sounds great. What can you say to reassure your kids that you do trust them?
+user: I can tell them that this app will help me not jump to the worst case scenario if I know where they are. I can also promise them that if they are anywhere where they don’t feel comfortable or need help, even if it is something that I wouldn’t encourage them to do, that they can call me to help and they won’t be in trouble. Just so they don’t think they will get in trouble.
+assistant: That is a very clear and reasonable explanation. I think that if they hear it from you in a calm and loving way, they would be much more likely to understand your perspective. How are you feeling about all of this?
+user: I think I have a clear understanding of their perspective now and how I want to approach the situation. I do stand by the fact that I want them to have this app, but it’s important for me to have this follow up conversation to let them know that I trust them and it won’t be my lifeline.
+assistant: Great! I'm glad that we were able to talk this through. Is there anything else you wanted to talk about today?
+user: No. I think that's it. Thank you so much.
+assistant: You're welcome. Take care, Stacy!
