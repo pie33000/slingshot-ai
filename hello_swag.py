@@ -62,5 +62,5 @@ if __name__ == "__main__":
             break
 
     pd.DataFrame(answers, columns=["context", "A", "B", "C", "D", "label"]).to_csv(
-        "hello_swag_output.csv", index=False
+        "outputs/hello_swag_output.csv", index=False
     )

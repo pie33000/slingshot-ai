@@ -46,7 +46,7 @@ def calculate_conversation_perplexity(
 # Load sample conversations from the provided zip file
 
 if __name__ == "__main__":
-    output_filepath = "output_qwen.txt"
+    output_filepath = "outputs/output_qwen.txt"
 
     model_name = "Qwen/Qwen2-1.5B-Instruct"
     tokenizer = AutoTokenizer.from_pretrained(model_name)

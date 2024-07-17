@@ -38,7 +38,7 @@ def evaluate(model, tokenizer, device):
     num_correct = 0
     num_total = 0
 
-    for example in load_data("hello_swag_output.csv"):
+    for example in load_data("outputs/hello_swag_output.csv"):
         tokens, mask, label = process_data(tokenizer, example)
         tokens = tokens.to(device)
         mask = mask.to(device)
