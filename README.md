@@ -7,9 +7,9 @@ Let's define what perplexity is and how to interpret this measure. Perplexity is
 Mathematically, perplexity is defined by the following formula:
 
 - $X = (x_1, x_2, \ldots, x_t)$
-- $PPL(X) = \exp\left(\frac{-1}{t} \sum_{i=1}^{t} \log(p_{\theta}(x_i | x_{<i}))\right)$
+- PPL(X) = exp( -1 / t * Σ (log(p_θ(x_i | x_<i))) )
 
-Here, $X$ is a sequence of tokens, and $p_{\theta}(x_i | x_{<i})$ is the probability of token $x_i$ given the preceding tokens.
+Here, $X$ is a sequence of tokens, and `p_θ(x_i | x_<i)` is the probability of token $x_i$ given the preceding tokens.
 
 ---
 
